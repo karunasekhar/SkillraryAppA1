@@ -22,6 +22,7 @@ import pomPages.LoginPage;
 import pomPages.UsersPage;
 import pomPages.WelcomePage;
 import pomPages.categorypage;
+// this test is successfully
 
 public class Baseclass {
 	
